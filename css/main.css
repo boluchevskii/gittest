@@ -4,4 +4,5 @@ body{
 
 p {
     background-color: blue;
+    align-self: start;
 }
